@@ -2,4 +2,6 @@
 
 ## Generate a keypair
 
-```helm search repo hashicorp/consul --versions```
+```
+helm search repo hashicorp/consul --versions
+```
